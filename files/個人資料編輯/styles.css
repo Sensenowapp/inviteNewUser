@@ -12,7 +12,7 @@
   position:absolute;
   z-index:0;
 }
-#u793_img {
+#u794_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -20,7 +20,7 @@
   width:578px;
   height:1046px;
 }
-#u793 {
+#u794 {
   border-width:0px;
   position:absolute;
   left:60px;
@@ -28,7 +28,7 @@
   width:578px;
   height:1046px;
 }
-#u793_text {
+#u794_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -37,7 +37,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u794 {
+#u795 {
   border-width:0px;
   position:absolute;
   left:144px;
@@ -45,7 +45,7 @@
   width:414px;
   height:736px;
 }
-#u794_input {
+#u795_input {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -54,7 +54,7 @@
   height:736px;
   overflow:hidden;
 }
-#u795_div {
+#u796_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -74,7 +74,7 @@
   font-size:14px;
   color:#CCCCCC;
 }
-#u795 {
+#u796 {
   border-width:0px;
   position:absolute;
   left:144px;
@@ -87,31 +87,6 @@
   font-size:14px;
   color:#CCCCCC;
 }
-#u795_text {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
-#u796_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:415px;
-  height:739px;
-}
-#u796 {
-  border-width:0px;
-  position:absolute;
-  left:145px;
-  top:193px;
-  width:415px;
-  height:739px;
-}
 #u796_text {
   border-width:0px;
   position:absolute;
@@ -121,7 +96,32 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u797_div {
+#u797_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:415px;
+  height:739px;
+}
+#u797 {
+  border-width:0px;
+  position:absolute;
+  left:145px;
+  top:193px;
+  width:415px;
+  height:739px;
+}
+#u797_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u798_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -139,7 +139,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u797 {
+#u798 {
   border-width:0px;
   position:absolute;
   left:243px;
@@ -147,7 +147,7 @@
   width:206px;
   height:42px;
 }
-#u797_text {
+#u798_text {
   border-width:0px;
   position:absolute;
   left:0px;
